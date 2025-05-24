@@ -7,7 +7,6 @@ import { FormFieldParent } from '../form-filed-parent';
 
 export const Checkbox = (props: CheckboxProps) => {
     const { label, checked, onChange } = props;
-    console.log(checked, label);
 
     return (
         <FormFieldParent>
