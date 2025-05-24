@@ -1,0 +1,1 @@
+export { ObstaclesSlider } from './ObstaclesSlider';
